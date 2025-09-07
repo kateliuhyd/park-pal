@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.8852,
+            37.3366
+          ],
+          [
+            -121.884,
+            37.3366
+          ]
+        ]
+      },
+      "properties": {
+        "name": "E San Fernando St (sample)",
+        "rule_type": "2h",
+        "max_duration_min": 120,
+        "days": "Mon-Fri",
+        "start_time": "08:00:00",
+        "end_time": "18:00:00",
+        "permit_zone": "A",
+        "source": "manual",
+        "confidence": "medium"
+      }
+    }
+  ]
+}

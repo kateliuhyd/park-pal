@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8837,
+          37.3369
+        ]
+      },
+      "properties": {
+        "name": "Meter #A1001",
+        "note": "2h daytime",
+        "source": "official"
+      }
+    }
+  ]
+}

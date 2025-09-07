@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8856,
+          37.3339
+        ]
+      },
+      "properties": {
+        "name": "Fourth Street Garage",
+        "fee_policy": "paid",
+        "open_hours": "24/7",
+        "source": "official"
+      }
+    }
+  ]
+}
